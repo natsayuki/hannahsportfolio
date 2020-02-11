@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/the42ndturtle/hannahsportfolio/issues"
   },
-  "homepage": "https://github.com/the42ndturtle/hannahsportfolio#readme"
+  "homepage": "https://github.com/the42ndturtle/hannahsportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  }
 }
