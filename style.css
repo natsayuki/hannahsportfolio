@@ -69,16 +69,10 @@
   #wrapper{
     grid-template-columns: 1fr;
   }
-  div{
-    width: 95vw;
-  }
 }
 @media(min-width:576px){
   #wrapper{
     grid-template-columns: 1fr;
-  }
-  div{
-    width: 95vw;
   }
 }@media(min-width:768px){
   #wrapper{
